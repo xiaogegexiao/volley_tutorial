@@ -42,8 +42,4 @@
         android:layout_below="@+id/jsonSearch"
         android:text="Network Image Search"
         />
-    
-	
-    
-
 </RelativeLayout>
